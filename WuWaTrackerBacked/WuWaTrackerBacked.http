@@ -1,0 +1,6 @@
+@WuWaTrackerBacked_HostAddress = http://localhost:5221
+
+GET {{WuWaTrackerBacked_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
